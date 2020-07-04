@@ -1,0 +1,19 @@
+html {
+    text-align: center;
+    width: 300px;
+  }
+
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    max-width: 300px;
+}
+
+#popup-body #output {
+    text-align: center;
+    font-size: 12px;
+}
+
+#popup-body #output:hover{
+    /* text-decoration: line-through; */
+    opacity: 0.6;
+}
